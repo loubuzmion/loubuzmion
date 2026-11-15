@@ -23,15 +23,15 @@ Welcome to my GitHub profile! With over a decade of hands-on experience in wareh
 
 ### 📊 Featured Data Analytics Projects
 
-* **📈 [Power BI Sales & Time Intelligence Dashboard](./powerbi-sales-time-intelligence)**  
+* **📈 [Power BI Sales & Time Intelligence Dashboard](https://github.com/loubuzmion/powerbi-sales-time-intelligence.git)**  
   *Built an interactive Power BI report analyzing 2015–2018 retail sales trends using a custom relational Date table, seasonal trend visuals, and advanced DAX measures (`TOTALYTD`, `SAMEPERIODLASTYEAR`, Monthly Growth).*
-* **🗄️ [Video Game Market Analytics (MySQL)](./video-game-market-analytics-sql)**  
+* **🗄️ [Video Game Market Analytics (MySQL)](https://github.com/loubuzmion/video-game-market-analytics-sql.git)**  
   *Analyzed \$1.6B+ in global video game sales, publisher dominance, and player engagement across 235 titles using MySQL multi-table `JOIN`s, aggregations, data validation, and Window Functions.*
-* **🐍 [Retail Sales Exploratory Data Analysis (Python)](./retail-sales-data-analysis)**  
+* **🐍 [Retail Sales Exploratory Data Analysis (Python)](https://github.com/loubuzmion/retail-sales-data-analysis.git)**  
   *Performed end-to-end EDA on an online retail sales dataset using Python, Pandas, Matplotlib, and Seaborn—covering data cleaning, dataset merging, correlation analysis, and statistical insights.*
-* **✈️ [Airline Social Media Content Performance (Excel)](./Airline-Content-Performance-Analysis)**  
+* **✈️ [Airline Social Media Content Performance (Excel)](https://github.com/loubuzmion/Airline-Content-Performance-Analysis.git)**  
   *Cleaned and analyzed 27,000 social media posts from Air New Zealand, Qantas, Jetstar, and Virgin Australia to evaluate content quality, engagement metrics, and influence scores.*
-* **💼 [Data Careers Salary Analysis (Excel)](./Data-Careers-Salary-Analysis)**  
+* **💼 [Data Careers Salary Analysis (Excel)](https://github.com/loubuzmion/Data-Careers-Salary-Analysis.git)**  
   *Explored global salary trends across 9,000+ data and tech roles using Excel data cleaning, filtering, validation, and dynamic business reporting.*
 
 ---
@@ -51,7 +51,7 @@ Welcome to my GitHub profile! With over a decade of hands-on experience in wareh
 I'm always open to collaborating on data projects, discussing supply chain and business analytics, or connecting about **Data Analyst / BI Analyst** opportunities in New Zealand!
 
 * 🔗 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
-* 📂 **Portfolio Repositories:** [Explore all my repositories](https://github.com) *(replace `loubuzmion` if your username differs)*
+* 📂 **Portfolio Repositories:** [Explore all my repositories](https://github.com/loubuzmion?tab=repositories)
 
 ---
 
