@@ -34,6 +34,11 @@ Diploma in Digital Technology Development and Design (Level 5)
 Mission Ready HQ
 Expected completion: 2027
 
+Mission Ready
+Diploma in Digital Technology Development and Design (Level 5, 120 Credits) – AI-Powered Data Analyst
+[Feb 2026] – [Feb 2027]
+• Completed an intensive, industry-aligned programme combining data analytics, cloud data platforms, predictive modeling, and a 10-week full-time mentored work placement.
+• Micro-Credentials Earned: Data Analyst Accelerator, AI-Powered Advanced Data Analyst Accelerator, and Mentored Work Experience.
 ## Connect With Me
 
 LinkedIn:
