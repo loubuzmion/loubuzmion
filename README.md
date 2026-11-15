@@ -27,8 +27,12 @@ Welcome to my GitHub profile! With over a decade of hands-on experience in wareh
   *Built an interactive Power BI report analyzing 2015–2018 retail sales trends using a custom relational Date table, seasonal trend visuals, and advanced DAX measures (`TOTALYTD`, `SAMEPERIODLASTYEAR`, Monthly Growth).*
 * **🗄️ [Video Game Market Analytics (MySQL)](https://github.com/loubuzmion/video-game-market-analytics-sql.git)**  
   *Analyzed \$1.6B+ in global video game sales, publisher dominance, and player engagement across 235 titles using MySQL multi-table `JOIN`s, aggregations, data validation, and Window Functions.*
+* **🤖 [House Price Prediction – Machine Learning (Python)](https://github.com/loubuzmion/house-price-prediction-ml.git)**  
+  *Predicted house prices across 500 property listings using Multiple Linear Regression vs. Random Forest in Python (`scikit-learn`), incorporating Exploratory Data Analysis (EDA), correlation analysis, and RMSE model evaluation.*
 * **🐍 [Retail Sales Exploratory Data Analysis (Python)](https://github.com/loubuzmion/retail-sales-data-analysis.git)**  
   *Performed end-to-end EDA on an online retail sales dataset using Python, Pandas, Matplotlib, and Seaborn—covering data cleaning, dataset merging, correlation analysis, and statistical insights.*
+* **📊 [Employee Data Manipulation & EDA (Python & Pandas)](https://github.com/loubuzmion/python-pandas-employee-eda.git)**  
+  *Conducted Exploratory Data Analysis and data wrangling using Python and Pandas, implementing missing value imputation, conditional filtering, and departmental aggregations.*
 * **✈️ [Airline Social Media Content Performance (Excel)](https://github.com/loubuzmion/Airline-Content-Performance-Analysis.git)**  
   *Cleaned and analyzed 27,000 social media posts from Air New Zealand, Qantas, Jetstar, and Virgin Australia to evaluate content quality, engagement metrics, and influence scores.*
 * **💼 [Data Careers Salary Analysis (Excel)](https://github.com/loubuzmion/Data-Careers-Salary-Analysis.git)**  
