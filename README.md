@@ -1,6 +1,6 @@
 # Hi, I'm Lou Buzmion 👋
 
-## Aspiring Data Analyst | SQL | Power BI | Excel | Python
+## Data Analyst | SQL | Power BI | Excel | Python
 
 I am currently completing the Diploma in Digital Technology Development and Design (Level 5) through Mission Ready HQ in New Zealand.
 
