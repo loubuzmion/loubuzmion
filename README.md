@@ -1,7 +1,5 @@
 # Hi, I'm Lou Buzmion 👋
 
-## Data Analyst | SQL | Power BI | Excel | Python
-
 I am currently completing the Diploma in Digital Technology Development and Design (Level 5) through Mission Ready HQ in New Zealand.
 
 With more than 10 years of experience in warehousing, logistics, and inventory management, I am transitioning into Data Analytics and building practical experience through SQL, Power BI, Excel, and Python projects.
