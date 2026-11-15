@@ -1,4 +1,4 @@
-# Hi, I'm Lou Buzmion 👋
+# Hi there, I'm Lou Buzmion 👋
 
 I am currently completing the Diploma in Digital Technology Development and Design (Level 5) through Mission Ready HQ in New Zealand.
 
