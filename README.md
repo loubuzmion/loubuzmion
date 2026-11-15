@@ -54,7 +54,7 @@ Welcome to my GitHub profile! With over a decade of hands-on experience in wareh
 
 I'm always open to collaborating on data projects, discussing supply chain and business analytics, or connecting about **Data Analyst / BI Analyst** opportunities in New Zealand!
 
-* 🔗 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* 🔗 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/lou-buzmion-5a8366102)
 * 📂 **Portfolio Repositories:** [Explore all my repositories](https://github.com/loubuzmion?tab=repositories)
 
 ---
