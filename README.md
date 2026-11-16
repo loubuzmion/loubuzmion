@@ -12,12 +12,11 @@ Welcome to my GitHub profile! With over a decade of hands-on experience in wareh
 
 | Category | Tools & Platforms |
 | :--- | :--- |
-| **📊 BI & Visualization** | **Power BI** (DAX, Power Query, Data Modeling) • **Lucidchart** • Data Storytelling • KPI Reporting |
-| **📗 Spreadsheets** | **Microsoft Excel** (Pivot Tables, XLOOKUP, Power Query, Data Validation, Automation) |
-| **💻 Programming & SQL** | **SQL** • **MySQL** (Window Functions, CTEs, Joins) • **Python** (Pandas, NumPy, Matplotlib, Seaborn, PySpark) |
 | **☁️ Cloud & Data Platforms** | **Microsoft Fabric** • **Databricks** • **Microsoft Azure** • ETL Pipelines |
 | **🤖 Analytics & AI** | Exploratory Data Analysis (EDA) • Time Series Forecasting • Predictive Modeling • AI-Assisted Analysis |
-
+| **📊 BI & Visualization** | **Power BI** (DAX, Power Query, Data Modeling) • **Lucidchart** • Data Storytelling • KPI Reporting |
+| **💻 Programming & SQL** | **SQL** • **MySQL** (Window Functions, CTEs, Joins) • **Python** (Pandas, NumPy, Matplotlib, Seaborn, PySpark) |
+| **📗 Spreadsheets** | **Microsoft Excel** (Pivot Tables, XLOOKUP, Power Query, Data Validation, Automation) |
 
 ---
 
