@@ -1,4 +1,4 @@
-# Hi there, I'm Lou Buzmion! 👋
+# Hello, I'm Lou! 👋
 
 🌍 **Based in Auckland, New Zealand** | 💡 **Turning 10+ Years of Supply Chain & Logistics Expertise into Data-Driven Insights**
 
@@ -40,7 +40,7 @@ Welcome to my GitHub profile! With over a decade of hands-on experience in wareh
 
 ---
 
-### 🎓 Education & Credentials
+### 🎓 Education
 
 **Mission Ready HQ** — *Auckland, New Zealand*  
 **Diploma in Digital Technology Development and Design (Level 5, 120 Credits) – AI-Powered Data Analyst**  
