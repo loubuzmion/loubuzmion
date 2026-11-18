@@ -41,7 +41,7 @@ Welcome to my GitHub profile! With over a decade of hands-on experience in wareh
   *Cleaned and analyzed 27,000 social media posts from Air New Zealand, Qantas, Jetstar, and Virgin Australia to evaluate content quality, engagement metrics, and influence scores.*
 * **💼 [Data Careers Salary Analysis (Excel)](https://github.com/loubuzmion/Data-Careers-Salary-Analysis.git)**  
   *Explored global salary trends across 9,000+ data and tech roles using Excel data cleaning, filtering, validation, and dynamic business reporting.*
-* **💼 [Supermarket Sales & Profitability Analysis (Excel Analytics Project)](https://github.com/loubuzmion/supermarket-sales-profitability-analysis.git)**  
+* **🛒 [Supermarket Sales & Profitability Analysis (Excel Analytics Project)](https://github.com/loubuzmion/supermarket-sales-profitability-analysis.git)**  
   *Business intelligence case study built in Microsoft Excel. Features multi-criteria filtering, lookup functions, date normalization, customer behavior segmentation, and profitability modeling with visual reporting.*
 
 ---
