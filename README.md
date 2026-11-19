@@ -50,7 +50,7 @@ Welcome to my GitHub profile! With over a decade of hands-on experience in wareh
 
 **Mission Ready HQ** — *Auckland, New Zealand*  
 **Diploma in Digital Technology Development and Design (Level 5, 120 Credits) – AI-Powered Data Analyst**  
-*Feb 2026 – Feb 2027 (In Progress)*
+*Feb 2026 – Feb 2027 (Expected)*
 * Intensive, industry-aligned programme covering SQL, Power BI, Python, cloud data platforms (Microsoft Fabric, Databricks, Azure), predictive modeling, and a 10-week full-time mentored industry placement.
 * **Stackable Micro-Credentials:** Data Analyst Accelerator | AI-Powered Advanced Data Analyst Accelerator | Mentored Work Experience
 
@@ -68,18 +68,3 @@ I'm always open to collaborating on data projects, discussing supply chain and b
 ### ⚡ Fun Fact
 
 After 10+ years of optimizing physical warehouse aisles and inventory flows, I now spend my time optimizing SQL queries and data pipelines! 📦➡️📊
-
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Lou Buzmion"
-        self.location = "Auckland, New Zealand"
-        self.background = "10+ Years in Warehousing, Logistics & Inventory Management"
-        self.tech_stack = ["SQL", "Power BI", "Python", "Excel", "Microsoft Fabric", "Databricks"]
-        self.goal = "Turning messy operational data into smart business decisions"
-
-lou = DataAnalyst()
-```
