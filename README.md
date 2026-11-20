@@ -8,7 +8,7 @@
 🧨 _Data Analyst | Excel · SQL · Python · Power BI · Microsoft Fabric & Databricks | AI & Machine Learning | Turning Complex Data into Business Insights_
 
 ---
-### About Me 🌍 
+### 🌍 About Me
 
 After 10 years in warehousing and logistics, I'm reinventing my career through data analytics. While technology wasn't part of my daily work, I've embraced continuous learning and am developing skills in Excel, SQL, Power BI, and data analysis. Passionate about turning data into insights and ready for my first opportunity in the tech industry.
 
