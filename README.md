@@ -9,7 +9,7 @@
 ---
 ### About 🌍 
 
-Welcome to my GitHub profile! With over a decade of hands-on experience in warehousing, logistics, and inventory management, I understand how businesses operate on the ground. Today, I combine that operational intuition with modern data analytics—currently completing the **Diploma in Digital Technology Development and Design (Level 5)** at **Mission Ready HQ** (graduating February 2027). I love transforming raw operational data into clear, actionable dashboards and predictive models.
+Welcome to my GitHub profile! With over a decade of hands-on experience in warehousing, logistics, and inventory management, I understand how businesses operate on the ground. Today, I combine that operational intuition with modern data analytics—currently completing the **Diploma in Digital Technology Development and Design (Level 5)** at **Mission Ready HQ** (expected February 2027). I love transforming raw operational data into clear, actionable dashboards and predictive models.
 
 ---
 
