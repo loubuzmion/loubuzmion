@@ -56,7 +56,7 @@ After 10 years in warehousing and logistics, I'm reinventing my career through d
 
 ### 🌟 Let's Connect!
 
-I'm always open to collaborating on data projects, discussing supply chain and business analytics, or connecting about **Data Analyst / BI Analyst** opportunities in New Zealand!
+I'm always open to collaborating on data projects, discussing business analytics, or connecting about **Data Analyst / BI Analyst** opportunities in New Zealand!
 
 * 🔗 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/lou-buzmion-5a8366102)
 * 📂 **Portfolio Repositories:** [Explore all my repositories](https://github.com/loubuzmion?tab=repositories)
