@@ -5,7 +5,7 @@
 👩‍💻 **GitHub:** [loubuzmion](https://github.com/loubuzmion)  
 
 ---
-### 🧨 Data Analyst | Excel · SQL · Python · Power BI · Microsoft Fabric & Databricks | AI & Machine Learning | Turning Complex Data into Business Insights
+🧨 _Data Analyst | Excel · SQL · Python · Power BI · Microsoft Fabric & Databricks | AI & Machine Learning | Turning Complex Data into Business Insights_
 ---
 ### About Me🌍 
 
