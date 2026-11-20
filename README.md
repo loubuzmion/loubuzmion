@@ -51,8 +51,6 @@ After 10 years in warehousing and logistics, I'm reinventing my career through d
 **Mission Ready HQ** — *Auckland, New Zealand*  
 **Diploma in Digital Technology Development and Design (Level 5, 120 Credits) – AI-Powered Data Analyst**  
 *Feb 2026 – Feb 2027 (Expected)*
-* Intensive, industry-aligned programme covering SQL, Power BI, Python, cloud data platforms (Microsoft Fabric, Databricks, Azure), predictive modeling, and a 10-week full-time mentored industry placement.
-* **Stackable Micro-Credentials:** Data Analyst Accelerator | AI-Powered Advanced Data Analyst Accelerator | Mentored Work Experience
 
 ---
 
