@@ -18,7 +18,7 @@ After 10 years in warehousing and logistics, I'm reinventing my career through d
 | Category | Tools & Platforms |
 | :--- | :--- |
 | **☁️ Cloud & Data Platforms** | **Microsoft Fabric** • **Databricks** • **Microsoft Azure** • ETL Pipelines |
-| **🤖 Analytics & AI** | Exploratory Data Analysis (EDA) • Time Series Forecasting • Predictive Modeling • AI-Assisted Analysis |
+| **🤖 Analytics** | Exploratory Data Analysis (EDA) • Time Series Forecasting • Predictive Modeling |
 | **📊 BI & Visualization** | **Power BI** (DAX, Power Query, Data Modeling) • **Lucidchart** • Data Storytelling • KPI Reporting |
 | **💻 Programming & SQL** | **SQL** • **MySQL** (Window Functions, CTEs, Joins) • **Python** (Pandas, NumPy, Matplotlib, Seaborn, PySpark) |
 | **📗 Spreadsheets** | **Microsoft Excel** (Pivot Tables, XLOOKUP, Power Query, Data Validation, Automation) |
